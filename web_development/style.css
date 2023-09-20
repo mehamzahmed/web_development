@@ -1,0 +1,45 @@
+
+body
+{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+*{
+text-decoration: none;
+}
+img{
+	image-rendering: auto;
+	height: 200px;
+	width: 350px;
+}
+
+nav
+{
+background-color: rgb(90, 13, 97);
+padding: auto;
+padding-left: 8px; 
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 8px;
+}
+/* only changing red bar  */
+.navbar
+{
+   padding-left: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-right: 8px;
+}
+li{
+  display: inline;
+}
+li a{
+   color: rgb(212, 212, 212);
+   padding-left: 22px;
+   font-size: larger;
+   margin-right: 25px;
+}
+#ha{
+	text-align: center;
+	padding: 50px;
+	font-size: 50px;
+}
